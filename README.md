@@ -6,7 +6,8 @@
 
 •	Performed regression analysis to identify key factors affecting Netflix subscription retention and presented findings through the creation of visualization tools such as snake plots and perception maps using Tableau 
 
-This is the Perception Map (Tableau): Netflix is considered to have the best content and visual quality, as well as technical and international lingual compatibility
+This is the Perception Map (Tableau): Netflix is considered to have the best content and visual quality, as well as technical and international lingual* compatibility.
+*Lingual compatibility = supports multiple language dubbing or subtitles 
 ![FinalProject_Perception Map](https://user-images.githubusercontent.com/98137584/231608678-63caadea-87a0-4911-9d57-95d46d6f73d7.png)
 
 This is the Snake Plot (Tableau): It shows that Netflix is the market leader in most aspects. However, people are not too satisfied with its price. 
